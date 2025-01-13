@@ -8,7 +8,6 @@ In a highly competitive market like New York City, understanding trends and patt
 
 The goal is to empower Airbnb to optimize pricing strategies, enhance listing performance, and improve the overall experience for both hosts and guests.  
 
----
 
 ## **Problem Statement**  
 The primary objective of this project is to analyze Airbnb’s 2019 booking data for New York City to identify factors that influence pricing and booking behavior. The insights aim to benefit:  
@@ -47,7 +46,6 @@ Once the data was cleaned, the analysis focused on uncovering patterns and trend
 
 By leveraging graphs and charts, relationships between key variables were identified, providing deeper insights into the dynamics of Airbnb's market in New York City.  
 
----
 
 ### **Insights and Impact**  
 
@@ -61,14 +59,12 @@ The findings from this analysis provide valuable insights for various stakeholde
 - **Airbnb:**  
   Offer data-driven recommendations to refine platform features, improve pricing strategies, and enhance user satisfaction.  
 
----
 
 ## **Future Work**  
 - Incorporating machine learning models to predict prices or availability trends.  
 - Extending the analysis to include seasonal variations.  
 - Exploring customer review data for sentiment analysis.  
 
----
 
 ## **Getting Started**  
 
